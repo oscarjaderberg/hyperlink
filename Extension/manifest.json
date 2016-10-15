@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension shows a Google Image search result for the current page",
+  "name": "Hyperlink",
+  "description": "The ultimate bookmark extension, star your URL, get back to it via our search tab",
   "version": "1.0",
 
   "browser_action": {
